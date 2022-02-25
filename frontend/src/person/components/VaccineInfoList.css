@@ -1,0 +1,12 @@
+.place-list {
+  list-style: none;
+  margin: 1rem auto;
+  padding: 0;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.line {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
