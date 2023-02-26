@@ -109,3 +109,9 @@ get   ("api/person/:pid/getPersonInfo")
 patch ("api/perosn/:pid/updateInfo")
 
 ```
+
+for any problem
+npm i sass --save-dev
+npm i react-redux
+npm audit fix --force 
+then npm install
